@@ -1,0 +1,6 @@
+c:\users\josec\documents\visual studio 2015\Projects\Problema2\Problema2\bin\Debug\Problema2.exe.config
+c:\users\josec\documents\visual studio 2015\Projects\Problema2\Problema2\bin\Debug\Problema2.exe
+c:\users\josec\documents\visual studio 2015\Projects\Problema2\Problema2\bin\Debug\Problema2.pdb
+c:\users\josec\documents\visual studio 2015\Projects\Problema2\Problema2\obj\Debug\Problema2.csprojResolveAssemblyReference.cache
+c:\users\josec\documents\visual studio 2015\Projects\Problema2\Problema2\obj\Debug\Problema2.exe
+c:\users\josec\documents\visual studio 2015\Projects\Problema2\Problema2\obj\Debug\Problema2.pdb
